@@ -1,0 +1,1 @@
+This code allows Arduino, using an RFID/NFC sensor and the "mfrc522" library, to take scanned data from an RFID/NFC tag and output it on a selected serial port. The code is provided with a Python script that receives these outputs. REMEMBER to change the serial port based on the chosen one.
