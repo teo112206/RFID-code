@@ -1,0 +1,1 @@
+In the following two folders, you will find the Arduino code capable of reading RFID/NFC tags (arduino script) in one, and in the other folder (python script), you will find the Python script capable of reading this data on the serial port and providing a different output, whether it is a string or a number, based on the received code.
